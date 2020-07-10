@@ -20,4 +20,4 @@ https://n-pretorious.github.io/week-one-prep-ip/
 Email: pretoriousndungu@gmail.com
 
 ### License
-Copyright 2020 **Pretorious Ndung'u**
+&copy; Copyright 2020 **Pretorious Ndung'u**
