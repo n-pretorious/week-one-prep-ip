@@ -30,8 +30,8 @@
 }
 
 #title {
-  font-weight: bolder;
-  padding-bottom: 2em;
+  font-size: 26px;
+  padding-bottom: 1em;
 }
 
 /* styling for aside div */
@@ -69,6 +69,10 @@
   width: 75%;
   border-left: none;
   background-color: lightgray;
+}
+
+.main h2 {
+  text-align: center;
 }
 
 .main h2:before {
