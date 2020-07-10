@@ -37,7 +37,8 @@
 /* styling for aside div */
 .aside {
   display: block;
-  padding-left: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
   float: left;
   border: 1px solid #ccc;
   background-color: #f1f1f1;
@@ -101,7 +102,8 @@
 /* styling for main div */
 .main {
   float: left;
-  padding: 0px 12px;
+  padding-left: 20px;
+  padding-right: 20px;
   border: 1px solid #ccc;
   width: 75%;
   border-left: none;
