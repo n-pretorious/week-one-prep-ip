@@ -1,4 +1,4 @@
-a href="https://coveralls.io/github/nestjs/nest?branch=master"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#5" alt="Coverage" /></a>
+<img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#5" alt="Coverage" /></a>
 
 # PORTFOLIO
 #### This is website of Pretorious Portfolio, 10.07.2020
