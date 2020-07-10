@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 .header {
   background-color: #303030;
   display: inline-block;
@@ -30,6 +34,10 @@
   width: 25%;
 }
 
+.aside h4 {
+  padding-top: 2em;
+}
+
 .aside img {
   padding-left: 25px;
   width: 60%;
@@ -40,7 +48,37 @@
   float: left;
   padding: 0px 12px;
   border: 1px solid #ccc;
-  width: 73%;
+  width: 75%;
   border-left: none;
   background-color: lightgray;
+}
+
+.main h2:before {
+  content:"\a";
+  white-space: pre;
+}
+
+.main h4 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.main h5 {
+  font-weight: lighter;
+}
+
+.main ol {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 16px 12px;
+  border-radius: 10px;
+}
+
+.main a {
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.github {
+  font-weight: bolder;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
